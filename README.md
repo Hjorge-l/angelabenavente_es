@@ -1,8 +1,8 @@
-<p align="right">ES/<a href="https://github.com/angelabenavente/angelabenavente#readme">EN</a></p>
+<p align="right">ES / <a href="https://github.com/angelabenavente/angelabenavente#readme" tabindex=”0” role=”link” style=”cursor:pointer;”>EN</a> / <a href="https://github.com/angelabenavente/angelabenavente_fr#readme" tabindex=”0” role=”link” style=”cursor:pointer;”>FR</a></p>
 
 # Hola, soy Ángela 👋
 
-<p>Soy una desarrolladora frontend y linguísta de España. Además de <a href="https://angelabenavente.github.io/" tabindex=”0” role=”link” style=”cursor:pointer;text-decoration:underline;color:blue;”>pelearme con el código</a>, pensar en interfaces e investigar sobre las nuevas tendencias del mundo dev, estoy aprendiendo accesibilidad web. Me gusta practicar francés y chino mandarín, el senderismo y la música.</p>
+<p>Soy una desarrolladora frontend y linguísta de España. Además de <a href="https://angelabenavente.github.io/" tabindex=”0” role=”link” style=”cursor:pointer;”>pelearme con el código</a>, pensar en interfaces e investigar sobre las nuevas tendencias del mundo dev, estoy aprendiendo accesibilidad web. Me gusta practicar francés y chino mandarín, el senderismo y la música.</p>
 <p>Estoy abierta a participar en proyectos colaborativos y mentorizar :)</p>
 
 ## 
